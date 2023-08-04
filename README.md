@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/wRQRPa3jopcAAAAC/code-coffee.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/wRQRPa3jopcAAAAC/code-coffee.gif)]
 
 <h1 align="center">Hi 👋, I'm Ayush Deb</h1>
 <h3 align="center">Loves coding along with a cup of coffee.</h3>
