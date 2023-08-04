@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcoding-programmer-workspace-with-cactus-coffee-book-vector-clip-art-illustration_6078368.htm&psig=AOvVaw2MHeo62_ae4Qjsv5jvlTLJ&ust=1691243594852000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCB9b-Tw4ADFQAAAAAdAAAAABAS)]
+[![MasterHead](https://wallpapers.com/images/high/coding-and-coffee-o33mx7bb45cwpend.webp)]
 
 <h1 align="center">Hi 👋, I'm Ayush Deb</h1>
 <h3 align="center">Loves coding along with a cup of coffee.</h3>
