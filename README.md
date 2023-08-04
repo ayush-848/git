@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F499%2F786%2FHD-wallpaper-take-a-break-code-coffee-web-break-html.jpg&tbnid=1Y9B9Q4mslgpBM&vet=12ahUKEwiSxueFkcOAAxXlmmMGHRpDB_8QMygAegUIARDSAQ..i&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fsearch%3Fq%3Dcoffee%2Band%2Bcode&docid=8Vs-KKyxXBQ-1M&w=800&h=500&q=code%20cofee%20dp&ved=2ahUKEwiSxueFkcOAAxXlmmMGHRpDB_8QMygAegUIARDSAQ)]
+[![MasterHead](https://w0.peakpx.com/wallpaper/499/786/HD-wallpaper-take-a-break-code-coffee-web-break-html.jpg)]
 
 <h1 align="center">Hi 👋, I'm Ayush Deb</h1>
 <h3 align="center">Loves coding along with a cup of coffee.</h3>
