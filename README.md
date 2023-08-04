@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/wRQRPa3jopcAAAAC/code-coffee.gif)]
+[![MasterHead](https://dribbble.com/shots/9457622-web-developer/attachments/1483064?mode=media)]
 
 <h1 align="center">Hi 👋, I'm Ayush Deb</h1>
 <h3 align="center">Loves coding along with a cup of coffee.</h3>
