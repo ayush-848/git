@@ -1,4 +1,4 @@
-[![MasterHead](https://dribbble.com/shots/9457622-web-developer/attachments/1483064?mode=media)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FDebugging-Definition-Programming-Programmer-Computer%2Fdp%2FB07PNWPHJD&psig=AOvVaw2MHeo62_ae4Qjsv5jvlTLJ&ust=1691243594852000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCB9b-Tw4ADFQAAAAAdAAAAABAJ)]
 
 <h1 align="center">Hi 👋, I'm Ayush Deb</h1>
 <h3 align="center">Loves coding along with a cup of coffee.</h3>
