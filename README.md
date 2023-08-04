@@ -1,4 +1,4 @@
-[![MasterHead](https://w0.peakpx.com/wallpaper/499/786/HD-wallpaper-take-a-break-code-coffee-web-break-html.jpg)]
+[![MasterHead](https://media.tenor.com/wRQRPa3jopcAAAAC/code-coffee.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ayush Deb</h1>
 <h3 align="center">Loves coding along with a cup of coffee.</h3>
